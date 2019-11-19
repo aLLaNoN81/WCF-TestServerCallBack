@@ -1,0 +1,14 @@
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\bin\Debug\TestServerCallBack.exe.config
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\bin\Debug\TestServerCallBack.exe
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\bin\Debug\TestServerCallBack.pdb
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\MainWindow.g.cs
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\App.g.cs
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack_MarkupCompile.cache
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack_MarkupCompile.lref
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\MainWindow.baml
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.g.resources
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.Properties.Resources.resources
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.csproj.GenerateResource.Cache
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.exe
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.pdb
+C:\Users\molinarc\Source\Workspaces\Test\TestServerCallBack\TestServerCallBack\obj\Debug\TestServerCallBack.csprojResolveAssemblyReference.cache
