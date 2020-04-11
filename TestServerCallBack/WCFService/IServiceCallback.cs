@@ -7,12 +7,23 @@ namespace TestServerCallBack.WCFService
     {
         [OperationContract(IsOneWay = true)]
         void GetData();
-    }
 
+        [OperationContract]
+        bool GetTest();
+
+        [OperationContract()]
+        int Subscribe();
+
+        [OperationContract()]
+        bool Unsubscribe(int id);
+    }
 
     public interface IServiceCallback
     {
-        [OperationContract(IsOneWay = true)]
-        void SendResult();
+        [OperationContract()]
+        void SendResultBroadcast(string text);
+
+        [OperationContract()]
+        void SendResult(int id, string text);
     }
 }
